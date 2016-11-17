@@ -1,0 +1,19 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	font-family: Calibri;
+}
+.jumbotron{
+	display:flex;
+	allign-items:center;
+	color: yellow;
+}
+#pageHeader{
+	background-color: yellow;
+}
+
+.submit{
+	position: absolute;
+	top:5px;
+	left:50%;
+}

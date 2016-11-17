@@ -1,0 +1,18 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	font-family: Calibri;
+}
+#jumbotron{
+	display:flex;
+	allign-items:center;
+	background-color: white;
+}
+#page_header{
+	background-color: #FFBF00;
+}
+#infoContainer{
+	background-color: white;
+}
+
+
